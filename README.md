@@ -374,6 +374,7 @@
 
 ## 集合
 * [《Java Set集合的详解》](https://blog.csdn.net/qq_33642117/article/details/52040345)
+* [《Java集合详解--什么是Set》](https://blog.csdn.net/wz249863091/article/details/52903871)
 
 ## 链表、数组
 * [《Java集合详解--什么是List》](https://blog.csdn.net/wz249863091/article/details/52853360)
